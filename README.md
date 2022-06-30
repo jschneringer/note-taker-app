@@ -7,7 +7,7 @@
 <h2>Express, Javascript, HTML, CSS </h2>
 
 <h1>Screenshot</h1>
-
+https://github.com/jschneringer/note-taker-app/issues/1#issue-1289595396
 
 
 <h1>Links</h1>
