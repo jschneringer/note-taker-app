@@ -6,5 +6,11 @@
 <h1>Technologies Used</h1>
 <h2>Express, Javascript, HTML, CSS </h2>
 
-<Links>
+<h1>Screenshot</h1>
+
+
+
+<h1>Links</h1>
   https://github.com/jschneringer/note-taker-app
+  https://jschneringer.github.io/note-taker-app/
+  
